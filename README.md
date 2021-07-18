@@ -26,11 +26,14 @@ Firstly, make sure you the the rightmost yellow button as Toggle (Node Type=Weig
 You can add weighted node to which ever cells you want by clicking the mouse and dragging it and the same goes for removing them
 You can also toggle between wall cell and normal cell
 
-### Generation of Path
-Generate the path using whichever algorithm you want by clicking on the corresponding button
-
 ### Visualization of Path
 Visualize the generated path by clicking the Visualize Path Button
+
+### Clear Grid
+Clears the grid and removes all the weighted node and walls
+
+### Clear Visualization
+Clears the visualization of the algorithm and make every visited node and shortest path node as unvisited node.
 
 For example these are the visualized paths for the A-Star and Dijkstra Algorithm
 
