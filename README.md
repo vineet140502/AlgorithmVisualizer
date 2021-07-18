@@ -12,7 +12,7 @@ Run `npm install`
 Run `npm start`.
 Open http://localhost:3000 to view it in the browser.
 
-
+## Features
 ### Positioning the start and end node
 You can move the start and end node to which ever cell you want by dragging and dropping
 
