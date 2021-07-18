@@ -7,9 +7,9 @@ A web application to visualize various pathfinding algorithms on a Grid
 ### Cloning the repository:
 Clone the repository using git clone https://github.com/hsureka/pathfinding-visualizer.git
 ### Installing dependencies:
-Run npm install
+Run `npm install`
 ### Starting the server:
-Run npm start.
+Run `npm start`.
 Open http://localhost:3000 to view it in the browser.
 
 
