@@ -26,6 +26,9 @@ Firstly, make sure you the the rightmost yellow button as Toggle (Node Type=Weig
 You can add weighted node to which ever cells you want by clicking the mouse and dragging it and the same goes for removing them
 You can also toggle between wall cell and normal cell
 
+### Auto calculation of shortest path
+The shortest path is calcuted on itself on moving the start or end node without having to press the calculate shortest path button.
+
 ### Visualization of Path
 Visualize the generated path by clicking the Visualize Path Button
 
