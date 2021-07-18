@@ -39,8 +39,6 @@ After visualization you can reposition start and end node as you want and add an
 
 ### This Project was built by
 
-_This Project was built by_
-
 - [Harshit Sureka](https://github.com/hsureka)
 - [Kartik Verma](https://github.com/kartikverma044)
 - [Vineet Agarwal](https://github.com/vineet140502)
