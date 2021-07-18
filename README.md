@@ -43,6 +43,7 @@ For example these are the visualized paths for the A-Star and Dijkstra Algorithm
 ### After visualization
 After visualization you can reposition start and end node as you want and add and delete walls as you wish and visualize using any algorithm again without reloading the webpage
 
+## Developers
 ### This Project was built by
 
 - [Harshit Sureka](https://github.com/hsureka)
