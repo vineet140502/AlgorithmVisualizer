@@ -9,7 +9,7 @@ Check the website here :- https://pathfinding-visualizer-iitg.herokuapp.com/
 
 ## Installation
 ### Cloning the repository:
-Clone the repository using git clone https://github.com/hsureka/pathfinding-visualizer.git
+Clone the repository using git clone https://github.com/vineet140502/algorithmvisualizer.git
 ### Installing dependencies:
 Run `npm install`
 ### Starting the server:
